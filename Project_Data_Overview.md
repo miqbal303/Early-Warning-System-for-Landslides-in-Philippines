@@ -173,3 +173,4 @@ This dataset contains rainfall advisories.
 ### Notes:
 - Many datasets contain geospatial columns (`WKT`, `geometry`, `.geo`), which require special handling for mapping and geospatial analysis.
 - Missing values vary by dataset, with some columns having significant amounts of missing data. The missing values should be carefully handled during preprocessing.
+- Peak Ground Acceleration dataset(.kmz data) does not have relative info(attributes) so i simply drop it 
