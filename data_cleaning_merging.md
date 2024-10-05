@@ -6,7 +6,7 @@ This document outlines the steps taken to clean and merge the datasets for analy
 
 In the initial step of data cleaning, the following columns were removed due to their lack of significant information and the presence of a large number of missing values:
 
-- **Unnamed: 6-9** from both **HeavyRainfallPH.csv** and **rainfall_advisories_excel.xls** datasets.  
+- **Unnamed: 6-9** from **rainfall_advisories_excel.xls** datasets.  
   These columns were found to be irrelevant, and their removal helped streamline the datasets.
 
 ## 2. Merging Datasets
